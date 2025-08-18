@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# AEON Technical Assessment
 
-## Getting Started
+A comprehensive Next.js application implementing all 4 challenges for the AEON technical assessment, featuring responsive design, modern UI components, and clean code architecture.
 
-First, run the development server:
+## 🚀 Quick Start
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Prerequisites
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Before running this application, ensure you have the following installed:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Node.js** (version 18.0 or higher)
+- **npm** (comes with Node.js)
+- **Git** (for version control)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Installation & Setup
 
-## Learn More
+1. **Clone or download the project:**
+   # If using Git
+   git clone (https://github.com/iliya97/aeon-technical-assesment.git)
+   cd aeon-technical-assessment
+   
+   # Or if you have the project files already
+   cd aeon-technical-assessment
 
-To learn more about Next.js, take a look at the following resources:
+2. **Install dependencies:**
+   npm install
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3. **Start the development server:**
+   npm run dev
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+4. **Open your browser:**
+   Navigate to [http://localhost:3000](http://localhost:3000)
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Developed for AEON Technical Assessment**  
+*Implementation Date: August 2025*  
+*Framework: Next.js with React 19*
